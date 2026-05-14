@@ -1,4 +1,4 @@
-﻿﻿🐎中央卫视频道,#genre#
+﻿﻿🐎中央影视频道,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -561,6 +561,29 @@ CETV2,http://27.18.125.83:7788/923287211
 CETV4,http://27.18.125.83:7788/923287339
 山东教育,http://27.18.125.83:7788/609154353
 
+🐎体育直播频道,#genre#
+五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+篮球专场,https://live.ottiptv.cc/huya/27949551
+羽毛球专场,https://live.ottiptv.cc/huya/30806115
+乒乓球专场,https://live.ottiptv.cc/huya/23505696
+斯诺克专场,https://live.ottiptv.cc/huya/880214
+赛车专场,https://live.ottiptv.cc/huya/18152482
+摔跤专场,https://live.ottiptv.cc/huya/20072812
+拳击专场,https://live.ottiptv.cc/huya/18152380
+格斗专场,https://live.ottiptv.cc/huya/20072796
+柔道专场,https://live.ottiptv.cc/huya/20072837
+WWE专场,https://live.ottiptv.cc/huya/30021023
+摩托专场,https://live.ottiptv.cc/huya/19197407
+健美专场,https://live.ottiptv.cc/huya/26106704
+健身专场,https://live.ottiptv.cc/huya/24354754
+越野专场,https://live.ottiptv.cc/huya/30020978
+Big3专场,https://live.ottiptv.cc/huya/30847442
+飞盘专场,https://live.ottiptv.cc/huya/30689549
+飞镖专场,https://live.ottiptv.cc/huya/30631766
+瑜伽专场,https://live.ottiptv.cc/huya/20753449
+棒球专场,https://live.ottiptv.cc/huya/20072763
+扇耳光专场,https://live.ottiptv.cc/huya/30631765
+
 🐎移动央视频道,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/1.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
@@ -638,6 +661,8 @@ CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/1.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/1.m3u8
 金鹰剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/1.m3u8
 聚鲨环球购物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226697/1.m3u8
+李子柒,https://live.ottiptv.cc/huya/21969336
+钓鱼欧尼,http://live.nctv.top/douyu1.php?id=10616765
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/1.m3u8
 四海钓鱼,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 四海钓鱼,http://dodge.lwfz.fun:8800/rtp/239.16.20.70:10700
@@ -731,6 +756,39 @@ TV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227254/1.m3u8
 美女总裁回乡过年(97集),https://vd3.bdstatic.com/mda-pedtu8rsvhbj5pdx/sc/cae_h264/1684177990536629531/mda-pedtu8rsvhbj5pdx.mp4 
 天龙战神(94集),https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4 
 历少强势锁婚(100集),https://vd3.bdstatic.com/mda-pegcxruwk0cxswv8/720p/h264/1684317268225808680/mda-pegcxruwk0cxswv8.mp4
+
+🐎CHC电影,#genre#
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+IPTV经典电影,http://gd-mm-yd.sohu.blog:85/tsfile/live/1133_1.m3u8?key=txiptv&playlive=0&authid=0
+
+淘电影,http://route.079915.xyz:4022/rtp/239.3.1.250:8001
+淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
+淘电影,http://www.uibehw.cn:4022/rtp/239.3.1.250:8001
+淘电影,http://route.alexex.fun:4022/rtp/239.3.1.250:8001
+淘电影,http://iptv.chen2912.online:4022/rtp/239.3.1.250:8001
+淘电影,http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.250:8001
+淘电影,http://guoxue7.xicp.net:57022/rtp/239.3.1.250:8001
+淘电影,http://guoxue.synology.me:57022/rtp/239.3.1.250:8001
+淘电影,http://1875164112.pouquiagievu.com:57022/rtp/239.3.1.250:8001
+淘电影,http://guoxue7.3322.org:57022/rtp/239.3.1.250:8001
+淘电影,http://superpostmail.3322.org:1193/rtp/239.3.1.250:8001
+淘电影,http://x1x.bid:5146/rtp/239.3.1.250:8001
+淘电影,http://www.x1x.bid:5146/rtp/239.3.1.250:8001
+淘电影,http://laiboy.myds.me:58686/rtp/239.3.1.250:8001
+淘电影,http://n2.192372.xyz:8888/rtp/239.3.1.250:8001
+淘电影,http://home.myddns.win:64022/rtp/239.3.1.250:8001
+淘电影,http://qqdwtypm.f3322.org:64022/rtp/239.3.1.250:8001
+淘电影,http://www.xiongnas.top:8888/rtp/239.3.1.250:8001
+淘电影,http://happylive.asuscomm.com:8888/rtp/239.3.1.250:8001
+淘电影,http://sk666.dns.navy:8888/rtp/239.3.1.250:8001
+淘电影,http://wuyanjiang.cn:8012/rtp/239.3.1.250:8001
+淘电影,http://nas.wsw.fun:8168/rtp/239.3.1.250:8001
 
 🐎虎牙轮播频道,#genre#
 成龙,http://39.153.130.167:35455/huya/11342386
@@ -1924,18 +1982,6 @@ NHK World Japan,https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 西游记 第二十三集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
 西游记 第二十四集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
 西游记 第二十五集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
-
-🐎CHC电影,#genre#
-CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-IPTV经典电影,http://gd-mm-yd.sohu.blog:85/tsfile/live/1133_1.m3u8?key=txiptv&playlive=0&authid=0
-星空卫视,http://as.288856.xyz/xg.php?id=%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86&tid=1
-美亚电影TW,http://as.288856.xyz/xg.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&tid=1
 
 🐎高胜影音,#genre#
 4K车载夜店伤感DJ小曼《喝酒喝到吐想你想到哭》视听效果全新感受,https://vd4.bdstatic.com/mda-pdjcvraerp626ayj/720p/h264/1681981665055246009/mda-pdjcvraerp626ayj.mp4
